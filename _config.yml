@@ -30,9 +30,9 @@ social:
   - src: google-scholar
     icon: ai ai-google-scholar
     url: "https://scholar.google.com/citations?user=i9iYllcAAAAJ" # 这里未来换成你的谷歌学术链接
-   - src: bilibili
-     icon: fab fa-bilibili
-     url: "https://space.bilibili.com/1658434897" 
+  - src: bilibili
+    icon: fab fa-bilibili
+    url: "https://space.bilibili.com/1658434897" 
 
 
 url: https://jasper-zhang.com # the base hostname & protocol for your site
