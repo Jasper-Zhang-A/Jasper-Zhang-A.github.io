@@ -20,19 +20,7 @@ keywords: Jasper Zhang, 璟哲, UESTC, AI for Science, Electronic Information En
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-# -----------------------------------------------------------------------------
-# Social media links
-# -----------------------------------------------------------------------------
-social:
-  - src: github
-    icon: fab fa-github
-    url: "https://github.com/Jasper-Zhang-A" # 你的 GitHub 地址
-  - src: google-scholar
-    icon: ai ai-google-scholar
-    url: "https://scholar.google.com/citations?user=i9iYllcAAAAJ" # 这里未来换成你的谷歌学术链接
-  - src: bilibili
-    icon: fab fa-bilibili
-    url: "https://space.bilibili.com/1658434897" 
+
 
 
 url: https://jasper-zhang.com # the base hostname & protocol for your site
