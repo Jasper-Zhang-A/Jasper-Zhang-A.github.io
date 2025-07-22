@@ -3,21 +3,37 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
+title: Jasper Zhang # the website title (if blank, full name will be used instead)
+first_name: Jasper
+middle_name: 
+last_name: Zhang
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Feel free to reach out to me via email. I'm always open to new opportunities and collaborations.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+ Personal academic homepage of Jasper Zhang (璟哲), an undergraduate student at Glasgow Hainan College, UESTC.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  #Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  #Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  #Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+  &copy; 2025 Jasper Zhang. All rights reserved.
+keywords: Jasper Zhang, 璟哲, UESTC, AI for Science, Electronic Information Engineering, Mathematical Modeling, Deep Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+
+# -----------------------------------------------------------------------------
+# Social media links
+# -----------------------------------------------------------------------------
+social:
+  - src: github
+    icon: fab fa-github
+    url: "https://github.com/Jasper-Zhang-A" # 你的 GitHub 地址
+  - src: google-scholar
+    icon: ai ai-google-scholar
+    url: "https://scholar.google.com/citations?user=i9iYllcAAAAJ" # 这里未来换成你的谷歌学术链接
+   - src: bilibili
+     icon: fab fa-bilibili
+     url: "https://space.bilibili.com/1658434897" 
+
 
 url: https://jasper-zhang.com # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
